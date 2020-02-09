@@ -1,0 +1,1 @@
+Q1 write a node.js program to accept a number from browser and display whether it is prime or not on another webpage.
